@@ -1,2 +1,2 @@
 # nonconvex-lowrank-matrix-recovery
-Realization of algorithms introduced in the article "Nonconvex robust low-rank matrix recovery" by Xiao Li, Zhihui Zhu, Anthony Man-Cho So and Rene Vidal (https://arxiv.org/abs/1809.09237) as a part of "Introduction to Optimization and Numerical Methods of Optimization" project.
+Realization of Subgradient method (in case of PSD matrix and general case with fully random matrix) for robust low-rank matrix recovery introduced in the article "Nonconvex robust low-rank matrix recovery" by Xiao Li, Zhihui Zhu, Anthony Man-Cho So and Rene Vidal (https://arxiv.org/abs/1809.09237) as a part of "Introduction to Optimization and Numerical Methods of Optimization" project.
